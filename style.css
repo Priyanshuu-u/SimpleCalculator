@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+   
+        font-family: "DM Serif Display", serif;
+        font-weight: 400;
+        font-style: normal;
+        
+      
+      
+      
+       
+      
+      
+}
+h1{
+    font-size: 70px;
+}
+.outerbody{
+    height: 605px;
+    width: 500px;
+    border: 7px solid black;
+    margin: auto;
+    background-color: #17153B
+}
+.display{
+    width: 500px;
+    border:1px solid black;
+    border-bottom: 6px solid black;
+    height: 100px;
+    background-color: rgb(251, 234, 250);
+    text-align: end;
+    font-size: 70px;
+}
+.btn{
+    width: 122px;
+    height: 100px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    background-color: #C8ACD6;
+    
+}
+.btn1{
+    height: 100px;
+}
+
+
+button.btn3.btn {
+    width: 245px;
+    margin-left: 0px;
+}
+button{
+    border:1px solid black;
+    margin: auto;
+}
